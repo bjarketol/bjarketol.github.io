@@ -7,6 +7,6 @@ I am a research scientist at [DTU Wind](https://wind.dtu.dk/), Risø Denmark. My
 
 #### Wind Atlases
 
-![NEWA](https://bjarketol.github.io/assests/img/newa.png)
+![NEWA](https://bjarketol.github.io/assets/img/newa.png)
 
 [New European Wind Atlas](https://map.neweuropeanwindatlas.eu/) described in two GMD papers: [1](https://gmd.copernicus.org/articles/13/5053/2020/) and [2](https://gmd.copernicus.org/articles/13/5079/2020/)
